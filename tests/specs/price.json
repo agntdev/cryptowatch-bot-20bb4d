@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Request current price of specified coin or entire watchlist"
+              "text": "Your watchlist is empty — tap Manage Watchlist to add some coins."
             }
           }
         ],

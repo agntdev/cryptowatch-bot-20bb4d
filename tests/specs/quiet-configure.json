@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Define time window for alert suppression"
+              "text": "🌙 Quiet hours\n\nAlerts are suppressed during this window.\nCurrent: 10:00 PM → 7:00 AM"
             }
           }
         ],

@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Toggle morning summary and set delivery time"
+              "text": "🌅 Morning summary\n\nStatus: ⏸ Disabled\nDelivery time: 08:00"
             }
           }
         ],

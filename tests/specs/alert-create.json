@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Start guided alert configuration process"
+              "text": "Add coins to your watchlist first, then set alerts."
             }
           }
         ],

@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Display active alert rules with edit/remove options"
+              "text": "No alerts set yet — tap Set Alert to create one."
             }
           }
         ],
