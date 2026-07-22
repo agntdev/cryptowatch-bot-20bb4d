@@ -7,7 +7,7 @@
           {
             "method": "sendMessage",
             "payload": {
-              "text": "Add/remove/list coins with pre-seeded BTC/ETH/TON options"
+              "text": "📋 Your watchlist:\n\nNo coins yet — tap Add below to get started."
             }
           }
         ],
