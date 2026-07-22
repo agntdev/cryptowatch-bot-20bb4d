@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Configure Summary",
+    "steps": [
+      {
+        "expect": [
+          {
+            "method": "sendMessage",
+            "payload": {
+              "text": "Toggle morning summary and set delivery time"
+            }
+          }
+        ],
+        "send": {
+          "callback": "summary:configure"
+        }
+      }
+    ]
+  }
+]
